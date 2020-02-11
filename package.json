@@ -1,0 +1,32 @@
+{
+  "name": "literature-clock",
+  "description": "Returns a random quote containing the passed time.",
+  "keywords": [
+    "📚",
+    "literature",
+    "clock",
+    "book",
+    "quotes",
+    "kindle"
+  ],
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Max Isom <hi@maxisom.me> (https://maxisom.me/)",
+  "scripts": {
+    "test": "xo",
+    "lint-fix": "xo --fix"
+  },
+  "devDependencies": {
+    "csv": "^5.3.1",
+    "xo": "^0.25.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codetheweb/literature-clock.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codetheweb/literature-clock/issues"
+  },
+  "homepage": "https://github.com/codetheweb/literature-clock"
+}
